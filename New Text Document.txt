@@ -1,0 +1,1 @@
+/NodeJS/mongodb/bin/mongod.exe --dbpath=/NodeJS/mongodb-data
